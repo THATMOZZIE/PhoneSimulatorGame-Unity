@@ -1,0 +1,34 @@
+FEATURES TO FIX
+
+InstaChat Home Screen
+  1. PostPrefab needs to be fixed
+       - double clicking on a post on the InstaChat home screen needs to be set to the parameters of the photo only, not the entire post
+       - Remove the comments text. Need comments panel to open top to bottom instead
+       - clicking on the heart icon doesn't cause it to fill up red
+
+  2. Scrolling up
+       - Auto-Scroll up and fade the stories horizontal view and above as you scroll up
+       - This ensures the entire post can be seen and creates more space on the screen
+
+
+
+FEATURES TO ADD
+
+  1. Potentially add a feature to add additional apps that are games that allow you to keep score. 
+      - See if there is a way to allow other users to log there scores (real leaderboard)
+
+  2. Tinder like app? maybe you can find guys for your girl? Maybe you can talk to other girls? etc
+
+  3. allow NPCs to react to your dialogue choices by emoji reactions to your chat (like tap and hold).
+
+  4. Music? see if you can add music to posts with a mute button you can tap? 
+     - Spotify like app with music the player can turn on or off?
+
+  5. Videos? Things like reels?
+
+  6. App with decision tree that shows which paths you've unlocked so far for the player so they can visually see it? Top - Down view. 
+    - Show important decisions / milestones / chapters?
+    - Clicking a specific point can take you back to that part?
+
+  7. 
+
